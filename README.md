@@ -70,11 +70,6 @@
 
 ---
 
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/vakulaa/badges/large)
-
 ### ⚙️ GitHub статистика:
 
 <table>
