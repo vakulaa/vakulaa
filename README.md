@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### Обо мне:
 
 Я инженер по тестированию с опытом в ручном тестировании<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Прошел курс по ручному тестированию, и теперь в поиске новых возможностей для применения своих знаний.
 В настоящее время прохожу обучение в университете по специальности "Программное обеспечение информационных систем".
@@ -13,11 +13,11 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: тестирую WEB и мобильные приложения на предмет соответствия требованиям защиты персональных данных.
+- :iphone: Тестирую WEB и мобильные приложения на предмет соответствия требованиям защиты персональных данных.
 
 - :seedling: Завершил курс по ручному тестированию WEB и мобильных приложений!
 
-- :zap: Являюсь студентом по специальности "Программное обеспечение информационных систем".
+- :books: Являюсь студентом по специальности "Программное обеспечение информационных систем".
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-vakulaa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Artem_Vakula) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mr.vakula.aa@gmail.com)
 
